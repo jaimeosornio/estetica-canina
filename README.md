@@ -45,7 +45,7 @@ El sistema muestra:
 
 ## 📷 Capturas
 
-Próximamente...
+
 
 ## 👨‍💻 Autor
 
