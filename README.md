@@ -4,48 +4,42 @@ Sistema web desarrollado con Angular y Spring Boot para la gestión de una esté
 
 ## 🚀 Tecnologías utilizadas
 
-- Angular
-- TypeScript
-- Bootstrap
 - Java 17
 - Spring Boot
 - Spring Data JPA
 - H2 Database
+- Angular
+- Bootstrap
+- GitHub
 
-## 📋 Funcionalidades
+## ✨ Funcionalidades
 
-### Mascotas
-- Registrar mascotas
-- Editar mascotas
-- Eliminar mascotas
-- Buscar por ID
-- Buscar por nombre
+- CRUD de Mascotas
+- CRUD de Clientes
+- CRUD de Responsables
+- Búsqueda por ID
+- Búsqueda por Nombre
+- Confirmación de eliminación
+- Dashboard con contadores
+- Diseño responsive
 
-### Clientes
-- Registrar clientes
-- Editar clientes
-- Eliminar clientes
-- Buscar por ID
-- Buscar por nombre
+## 📸 Capturas
 
-### Responsables
-- Registrar responsables
-- Editar responsables
-- Eliminar responsables
-- Buscar por ID
-- Buscar por nombre
+Dashboard
 
-## 📊 Dashboard
+![Dashboard](dashboard.png)
 
-El sistema muestra:
+Clientes
 
-- Total de mascotas registradas
-- Total de clientes registrados
-- Total de responsables registrados
+![Clientes](clientes.png)
 
-## 📷 Capturas
+Mascotas
 
+![Mascotas](mascotas.png)
 
+Responsables
+
+![Responsables](responsables.png)
 
 ## 👨‍💻 Autor
 
